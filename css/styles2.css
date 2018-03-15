@@ -1,0 +1,18 @@
+h1 {
+  color: green;
+}
+body{
+  background-color: yellow;
+  font-size: 25px;
+  font-style: normal;
+  font-family: sans-serif;
+  line-height:inherit;
+}
+em{
+  font-weight: bold;
+  font-style: normal;
+}
+strong{
+  font-weight: normal;
+  font-style: italic;
+}
